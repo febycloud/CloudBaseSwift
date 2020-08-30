@@ -1,0 +1,6 @@
+framework module Pods_fireCloud {
+  umbrella header "Pods-fireCloud-umbrella.h"
+
+  export *
+  module * { export * }
+}

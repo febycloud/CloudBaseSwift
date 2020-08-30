@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>358115702028-h6o1qbkvna8teqim8k5pm9nd2chulnb8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.358115702028-h6o1qbkvna8teqim8k5pm9nd2chulnb8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBh8Pq5O5mbFSo4CVwis4Y8bkzRMmhfjE8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>358115702028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fei.ios.fireCloud</string>
+	<key>PROJECT_ID</key>
+	<string>firedoc-2882c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firedoc-2882c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:358115702028:ios:3f51ab0ae3279741810529</string>
+	<key>DATABASE_URL</key>
+	<string>https://firedoc-2882c.firebaseio.com</string>
+</dict>
+</plist>
